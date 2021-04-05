@@ -1,2 +1,2 @@
-# php-fundamentals
+# php-beginner
 PHP beginner exercices
